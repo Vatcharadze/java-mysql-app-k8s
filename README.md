@@ -175,7 +175,3 @@ kubectl delete -f mysql-k8s/db-configmap.yaml
 kubectl delete -f mysql-k8s/mysql-pvc.yaml
 kubectl delete -f mysql-k8s/mysql-secret.yaml
 ```
-
-## License
-
-No license file is currently included in this repository. Add one (e.g. MIT, Apache-2.0) if you intend for others to reuse this code.
