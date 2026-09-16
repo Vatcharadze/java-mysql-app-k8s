@@ -1,4 +1,6 @@
 # java-mysql-app-k8s
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 Kubernetes manifests and helper scripts for deploying a **Java (Spring Boot) application** backed by a **MySQL** database, with **phpMyAdmin** included for easy database administration. Everything is designed to run locally on **Minikube**.
 
